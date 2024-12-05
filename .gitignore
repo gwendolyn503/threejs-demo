@@ -1,0 +1,11 @@
+excludesfile = ~/.gitignore_global
+/node_modules
+node_modules
+node_module
+saas
+.DS_Store
+src/.DS_Store
+src/views/setUpCenter/locationManagement/.DS_Store
+saas.zip
+yarn-error.log
+.vscode/settings.json
